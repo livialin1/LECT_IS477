@@ -1,5 +1,19 @@
+# Overview
 The overall goal of our project is to construct a unified database combining open-access datasets from the Art Institute of Chicago, The Metropolitan Museum of Art (The Met) in New York, and the Tate Gallery in the United Kingdom. Using these datasets, the project aims to evaluate how historical representation differs across popular cultural organizations, focusing on artist prominence and key movements featured at each museum.
 
 The methods needed for this project are data acquisition, data extraction, record linkage, and comparative analysis for the three institutions. First, the metadata records will be retrieved from the Art Institute of Chicago’s data dumps API that uses JSON and CSV files, The Metropolitan Museum of Art’s open access API, and Tate Gallery’s public collection repository, all found on GitHub. During the extraction and cleaning phase, unstructured fields will be processed, such as standardizing dates, creating schemas able to be used for querying across all collections. To unify these distinct datasets, record linkage and entity resolution will be used. This process will align different artists, mediums used, and names of movements across history through the three museum repositories.
 
 Following dataset integration, comparative trend analysis will evaluate how institutional collection patterns evolve across major historical eras, such as the Renaissance, Modernism, and Contemporary periods. Examples that the analysis will track are museum acquisition trends, shifts in medium preferences among artists over time, and representation patterns for widely cataloged, prominent artists across all three institutions, highlighting differences in how major cultural institutions document and honor artistic legacies.
+
+# Team Roles
+Tiffany Chang, Erin Farraday, Livia Lin, Carlee White
+
+# Research / Business Questions
+
+# Datasets
+
+# Timeline
+
+# Constraints
+
+# Gaps
