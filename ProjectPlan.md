@@ -8,7 +8,7 @@ Following data cleaning, comparative analysis will evaluate the institutional co
 # Team Roles
 Tiffany Chang: Evaluator
 
-Erin Farraday: Data cleaning
+Erin Farraday: Data access & cleaning
 
 Livia Lin: GitHub and project management
 
@@ -63,7 +63,7 @@ December 1st: Finish analysis
 
 December 8th: Complete project report
 
-From submission until November 6th, we will be working on cleaning the datasets. Each dataset has around five days to be cleaned and reviewed by another team member. After the datasets are cleaned, we can begin combining the datasets with the help of record linkage. After this is done, we will have a few days to finish the status report of our progress. Then, we will aim to finish the analysis by December 1st, giving seven days to focus on completing the project report.
+From submission until November 6th, we will be working on cleaning the datasets. Each dataset has around five days to be cleaned and reviewed by another team member. This will include extracting accession dates from record numbers, separating birth and death dates for artists, and identifying missing or incorrect data. After the datasets are cleaned, we can begin combining the datasets with the help of record linkage. After this is done, we will have a few days to finish the status report of our progress. Then, we will aim to finish the analysis by December 1st, giving seven days to focus on completing the project report.
 
 # Constraints
 Constraints we would face in this project comes mostly from limitations relating to data completeness, consistency, and comparability across the different dataset collections. Due to the fact that each dataset/institution uses different metadata formats and classification systems, fields (like artist names, historical periods, etc.) may not align perfectly. The Getty artist vocabulary may help with standardizing artist names and identify matching entities, but not every artist in the museum collections may have a corresponding record.
