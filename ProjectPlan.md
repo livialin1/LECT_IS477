@@ -7,8 +7,11 @@ Following data cleaning, comparative analysis will evaluate the institutional co
 
 # Team Roles
 Tiffany Chang: Evaluator
+
 Erin Farraday: Data cleaning
+
 Livia Lin: GitHub and project management
+
 Carlee White: Data acquisition and research design
 
 # Research / Business Questions
@@ -21,7 +24,7 @@ Carlee White: Data acquisition and research design
 # Datasets
 The Art Institute of Chicago provides multiple options for how to download their data, and we chose to use a pre-prepared JSONL file, which includes every art piece, but limited features about the piece. The features provided are title, main reference number, department, and artist title. The main reference number is comprised of the accession year of the piece, a period, and a number which makes it uniquely identifying.
 
-The Metropolitan Museum of Art (The Met) provides an open-access dataset that contains information about over 470,000 pieces in its collection. The MetObjects.csv includes information such as the titles of artworks, artist names, nationalities, creation dates, and mediums. This will allow us to compare the representation of artists across museums and evaluate differences in artist naming conventions, as well as the completeness of artist information across sources. Features provided:
+The Metropolitan Museum of Art (The Met) provides an open-access dataset that contains information about over 470,000 pieces in its collection. The MetObjects.csv includes information such as the titles of artworks, artist names, nationalities, creation dates, and mediums. This will allow us to compare the representation of artists across museums and evaluate differences in artist naming conventions, as well as the completeness of artist information across sources. The features provided are as follows:
 'Object Number', 'Is Highlight', 'Is Timeline Work', 'Is Public Domain',
 'Object ID', 'Gallery Number', 'Department', 'AccessionYear’,
 'Object Name', 'Title', 'Culture', 'Period', 'Dynasty', 'Reign',
@@ -35,22 +38,23 @@ The Metropolitan Museum of Art (The Met) provides an open-access dataset that co
 'Subregion', 'Locale', 'Locus', 'Excavation', 'River', 'Classification',
 'Rights and Reproduction', 'Link Resource', 'Object Wikidata URL',
 'Metadata Date', 'Repository', 'Tags', 'Tags AAT URL',
-'Tags Wikidata URL'
+'Tags Wikidata URL'. 
+This list of features includes the same four features as the Art Institute of Chicago’s dataset, with the “main reference number” being called the “Object ID” in this dataset. 
 
 The Getty Union List of Artist Names (ULAN) is a structured vocabulary that contains identifying and biographical information about different artists. We exported the results of a query into a CSV file which contains artist names, biographies, nationalities, and record types. ULAN differs from the Art Institute of Chicago and Metropolitan Museum datasets because it focuses on individual artist identities rather than artwork records. We plan to use this specific dataset to support record linkage and entity resolution by matching artist names across the museum collections. The standardized format of ULAN’s information will help us identify potential matches, note differences in naming conventions, and supplement the museum datasets with artist-level information.
 
 The Art Institute of Chicago, Metropolitan Museum of Art, and Getty Union List of Artist Names datasets complement each other through their shared information about various artists. The Art Institute and Met datasets focus more on the artworks, while ULAN provides standardized info about the artists. We plan to use record linkage to identify artists that appear across multiple datasets, starting with available identifiers and names. For uncertain matches we may use additional biographical information such as nationality or birth date. The integrated dataset will allow us to compare artist representation across the museums and evaluate how artist information is recorded.
 
 # Timeline
-November 6th Data acquisition and cleaning
+November 6th: Data acquisition and cleaning
 
-November 15th Record linkage
+November 15th: Record linkage
 
-November 19th Status report
+November 19th: Status report
 
-December 1st Finish analysis
+December 1st: Finish analysis
 
-December 8th Complete project report
+December 8th: Complete project report
 
 From submission until November 6th, we will be working on cleaning the datasets. Each dataset has around five days to be cleaned and reviewed by another team member. After the datasets are cleaned, we can begin combining the datasets with the help of record linkage. After this is done, we will have a few days to finish the status report of our progress. Then, we will aim to finish the analysis by December 1st, giving seven days to focus on completing the project report.
 
