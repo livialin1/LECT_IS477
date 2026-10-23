@@ -9,6 +9,11 @@ Following data cleaning, comparative analysis will evaluate the institutional co
 Tiffany Chang, Erin Farraday, Livia Lin, Carlee White
 
 # Research / Business Questions
+1. How does the distribution of artworks across various historical periods differ from museum to museum?
+2. How does the representation of prominent artists differ across the museums based on the number of artworks that are attributed to each artist?
+3. How does the distribution of artistic mediums, such as painting, sculpture, and photography vary across the institutions?
+4. Are the acquisition dates of the artworks during or after the artist’s lifetime?
+
 
 # Datasets
 
