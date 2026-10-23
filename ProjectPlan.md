@@ -43,9 +43,13 @@ The Art Institute of Chicago, Metropolitan Museum of Art, and Getty Union List o
 
 # Timeline
 November 6th Data acquisition and cleaning
+
 November 15th Record linkage
+
 November 19th Status report
+
 December 1st Finish analysis
+
 December 8th Complete project report
 
 From submission until November 6th, we will be working on cleaning the datasets. Each dataset has around five days to be cleaned and reviewed by another team member. After the datasets are cleaned, we can begin combining the datasets with the help of record linkage. After this is done, we will have a few days to finish the status report of our progress. Then, we will aim to finish the analysis by December 1st, giving seven days to focus on completing the project report.
