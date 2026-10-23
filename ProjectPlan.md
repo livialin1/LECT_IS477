@@ -16,6 +16,27 @@ Tiffany Chang, Erin Farraday, Livia Lin, Carlee White
 
 
 # Datasets
+The Art Institute of Chicago provides multiple options for how to download their data, and we chose to use a pre-prepared JSONL file, which includes every art piece, but limited features about the piece. The features provided are title, main reference number, department, and artist title. The main reference number is comprised of the accession year of the piece, a period, and a number which makes it uniquely identifying.
+
+The Metropolitan Museum of Art (The Met) provides an open-access dataset that contains information about over 470,000 pieces in its collection. The MetObjects.csv includes information such as the titles of artworks, artist names, nationalities, creation dates, and mediums. This will allow us to compare the representation of artists across museums and evaluate differences in artist naming conventions, as well as the completeness of artist information across sources. Features provided:
+'Object Number', 'Is Highlight', 'Is Timeline Work', 'Is Public Domain',
+'Object ID', 'Gallery Number', 'Department', 'AccessionYear’,
+'Object Name', 'Title', 'Culture', 'Period', 'Dynasty', 'Reign',
+'Portfolio', 'Constituent ID', 'Artist Role', 'Artist Prefix',
+'Artist Display Name', 'Artist Display Bio', 'Artist Suffix',
+'Artist Alpha Sort', 'Artist Nationality', 'Artist Begin Date',
+'Artist End Date', 'Artist Gender', 'Artist ULAN URL',
+'Artist Wikidata URL', 'Object Date', 'Object Begin Date',
+'Object End Date', 'Medium', 'Dimensions', 'Credit Line',
+'Geography Type', 'City', 'State', 'County', 'Country', 'Region',
+'Subregion', 'Locale', 'Locus', 'Excavation', 'River', 'Classification',
+'Rights and Reproduction', 'Link Resource', 'Object Wikidata URL',
+'Metadata Date', 'Repository', 'Tags', 'Tags AAT URL',
+'Tags Wikidata URL'
+
+The Getty Union List of Artist Names (ULAN) is a structured vocabulary that contains identifying and biographical information about different artists. We exported the results of a query into a CSV file which contains artist names, biographies, nationalities, and record types. ULAN differs from the Art Institute of Chicago and Metropolitan Museum datasets because it focuses on individual artist identities rather than artwork records. We plan to use this specific dataset to support record linkage and entity resolution by matching artist names across the museum collections. The standardized format of ULAN’s information will help us identify potential matches, note differences in naming conventions, and supplement the museum datasets with artist-level information.
+
+The Art Institute of Chicago, Metropolitan Museum of Art, and Getty Union List of Artist Names datasets complement each other through their shared information about various artists. The Art Institute and Met datasets focus more on the artworks, while ULAN provides standardized info about the artists. We plan to use record linkage to identify artists that appear across multiple datasets, starting with available identifiers and names. For uncertain matches we may use additional biographical information such as nationality or birth date. The integrated dataset will allow us to compare artist representation across the museums and evaluate how artist information is recorded.
 
 # Timeline
 
