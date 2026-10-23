@@ -6,7 +6,10 @@ The methods needed for this project are data acquisition, data extraction, recor
 Following data cleaning, comparative analysis will evaluate the institutional collection patterns. Examples that the analysis will track are museum acquisition trends and representation patterns for prominent artists across all three institutions, highlighting differences in how major cultural institutions document and honor legendary artists.
 
 # Team Roles
-Tiffany Chang, Erin Farraday, Livia Lin, Carlee White
+Tiffany Chang: Evaluator
+Erin Farraday: Data cleaning
+Livia Lin: GitHub and project management
+Carlee White: Data acquisition and research design
 
 # Research / Business Questions
 1. How does the distribution of artworks across various historical periods differ from museum to museum?
@@ -41,5 +44,9 @@ The Art Institute of Chicago, Metropolitan Museum of Art, and Getty Union List o
 # Timeline
 
 # Constraints
+Constraints we would face in this project comes mostly from limitations relating to data completeness, consistency, and comparability across the different dataset collections. Due to the fact that each dataset/institution uses different metadata formats and classification systems, fields (like artist names, historical periods, etc.) may not align perfectly. The Getty artist vocabulary may help with standardizing artist names and identify matching entities, but not every artist in the museum collections may have a corresponding record.
+
+Some records may also contain missing or incomplete metadata, making record linkage less reliable. Additionally, differences in collection size and acquisition history may influence the results, meaning that artwork counts may not fully reflect an artist’s prominence or historical importance. To address these challenges, our project will standardize relevant fields, document missing data, and interpret the results with these limitations in mind.
 
 # Gaps
+Some additional input is needed to determine how well the Getty artist vocabulary can be linked to different artist records in the Art Institute of Chicago and The Metropolitan Museum of Art datasets. We may need more input on how to handle artists with multiple name variations, missing identifiers, or no matching Getty records. We will also need to confirm which metadata fields are available and sufficiently complete across the museum datasets to support our research questions. Additional input may be helpful in determining how we can classify historical periods and measure artist representation fairly across museums with different acquisition histories.
