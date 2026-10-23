@@ -42,6 +42,13 @@ The Getty Union List of Artist Names (ULAN) is a structured vocabulary that cont
 The Art Institute of Chicago, Metropolitan Museum of Art, and Getty Union List of Artist Names datasets complement each other through their shared information about various artists. The Art Institute and Met datasets focus more on the artworks, while ULAN provides standardized info about the artists. We plan to use record linkage to identify artists that appear across multiple datasets, starting with available identifiers and names. For uncertain matches we may use additional biographical information such as nationality or birth date. The integrated dataset will allow us to compare artist representation across the museums and evaluate how artist information is recorded.
 
 # Timeline
+November 6th Data acquisition and cleaning
+November 15th Record linkage
+November 19th Status report
+December 1st Finish analysis
+December 8th Complete project report
+
+From submission until November 6th, we will be working on cleaning the datasets. Each dataset has around five days to be cleaned and reviewed by another team member. After the datasets are cleaned, we can begin combining the datasets with the help of record linkage. After this is done, we will have a few days to finish the status report of our progress. Then, we will aim to finish the analysis by December 1st, giving seven days to focus on completing the project report.
 
 # Constraints
 Constraints we would face in this project comes mostly from limitations relating to data completeness, consistency, and comparability across the different dataset collections. Due to the fact that each dataset/institution uses different metadata formats and classification systems, fields (like artist names, historical periods, etc.) may not align perfectly. The Getty artist vocabulary may help with standardizing artist names and identify matching entities, but not every artist in the museum collections may have a corresponding record.
