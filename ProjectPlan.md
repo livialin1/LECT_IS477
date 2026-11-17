@@ -39,7 +39,7 @@ The Metropolitan Museum of Art (The Met) provides an open-access dataset that co
 'Rights and Reproduction', 'Link Resource', 'Object Wikidata URL',
 'Metadata Date', 'Repository', 'Tags', 'Tags AAT URL',
 'Tags Wikidata URL'. 
-This list of features includes the same four features as the Art Institute of Chicago’s dataset, with the “main reference number” being called the “Object ID” in this dataset. 
+This list of features includes the same four features as the Art Institute of Chicago’s dataset, with the “main reference number” being called the “Object Number” in this dataset. 
 
 The Getty Union List of Artist Names (ULAN) is a structured vocabulary that contains identifying and biographical information about different artists. We exported the results of a query into a CSV file which contains artist names, biographies, nationalities, and record types. ULAN differs from the Art Institute of Chicago and Metropolitan Museum datasets because it focuses on individual artist identities rather than artwork records. We plan to use this specific dataset to support record linkage and entity resolution by matching artist names across the museum collections. The standardized format of ULAN’s information will help us identify potential matches, note differences in naming conventions, and supplement the museum datasets with artist-level information.
 
