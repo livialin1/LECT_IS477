@@ -19,5 +19,6 @@ After making progress on data cleaning, we began working on the code for record 
 ### Erin
 
 ### Livia
+Produced record linkage code and described the process in task updates.
 
 ### Tiffany
