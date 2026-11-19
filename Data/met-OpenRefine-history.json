@@ -1,0 +1,628 @@
+[
+  {
+    "op": "core/column-removal",
+    "columnName": "Is Highlight",
+    "description": "Remove column Is Highlight"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Is Timeline Work",
+    "description": "Remove column Is Timeline Work"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Is Public Domain",
+    "description": "Remove column Is Public Domain"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Gallery Number",
+    "description": "Remove column Gallery Number"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Culture",
+    "description": "Remove column Culture"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Period",
+    "description": "Remove column Period"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Dynasty",
+    "description": "Remove column Dynasty"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Reign",
+    "description": "Remove column Reign"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Portfolio",
+    "description": "Remove column Portfolio"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Constituent ID",
+    "description": "Remove column Constituent ID"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Role",
+    "description": "Remove column Artist Role"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Prefix",
+    "description": "Remove column Artist Prefix"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Suffix",
+    "description": "Remove column Artist Suffix"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Alpha Sort",
+    "description": "Remove column Artist Alpha Sort"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Nationality",
+    "description": "Remove column Artist Nationality"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Display Bio",
+    "description": "Remove column Artist Display Bio"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Gender",
+    "description": "Remove column Artist Gender"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Geography Type",
+    "description": "Remove column Geography Type"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Dimensions",
+    "description": "Remove column Dimensions"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Medium",
+    "description": "Remove column Medium"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Object End Date",
+    "description": "Remove column Object End Date"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Object Begin Date",
+    "description": "Remove column Object Begin Date"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Object Date",
+    "description": "Remove column Object Date"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "City",
+    "description": "Remove column City"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "State",
+    "description": "Remove column State"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "County",
+    "description": "Remove column County"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Country",
+    "description": "Remove column Country"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Region",
+    "description": "Remove column Region"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Subregion",
+    "description": "Remove column Subregion"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Locale",
+    "description": "Remove column Locale"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Locus",
+    "description": "Remove column Locus"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Excavation",
+    "description": "Remove column Excavation"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "River",
+    "description": "Remove column River"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Classification",
+    "description": "Remove column Classification"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Rights and Reproduction",
+    "description": "Remove column Rights and Reproduction"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Link Resource",
+    "description": "Remove column Link Resource"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Object Wikidata URL",
+    "description": "Remove column Object Wikidata URL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Metadata Date",
+    "description": "Remove column Metadata Date"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Repository",
+    "description": "Remove column Repository"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Tags",
+    "description": "Remove column Tags"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Tags AAT URL",
+    "description": "Remove column Tags AAT URL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Tags Wikidata URL",
+    "description": "Remove column Tags Wikidata URL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist ULAN URL",
+    "description": "Remove column Artist ULAN URL"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist Begin Date",
+    "description": "Remove column Artist Begin Date"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Artist End Date",
+    "description": "Remove column Artist End Date"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "AccessionYear",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AccessionYear using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AccessionYear",
+          "expression": "value",
+          "columnName": "AccessionYear",
+          "from": 1870,
+          "to": 2060,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "AccessionYear",
+    "expression": "grel:value.substring(0, 4)",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AccessionYear using expression grel:value.substring(0, 4)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AccessionYear",
+          "expression": "value",
+          "columnName": "AccessionYear",
+          "from": 1870,
+          "to": 2060,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "AccessionYear",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AccessionYear using expression value.toNumber()"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AYfromCreditLine",
+          "expression": "value",
+          "columnName": "AYfromCreditLine",
+          "from": 0,
+          "to": 1800,
+          "selectNumeric": true,
+          "selectNonNumeric": false,
+          "selectBlank": false,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Clean_AY",
+          "expression": "value",
+          "columnName": "Clean_AY",
+          "from": 1870,
+          "to": 2030,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "Credit Line",
+    "expression": "value.trim()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Credit Line using expression value.trim()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AYfromCreditLine",
+          "expression": "value",
+          "columnName": "AYfromCreditLine",
+          "from": 0,
+          "to": 1800,
+          "selectNumeric": true,
+          "selectNonNumeric": false,
+          "selectBlank": false,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Clean_AY",
+          "expression": "value",
+          "columnName": "Clean_AY",
+          "from": 1870,
+          "to": 2030,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Credit Line",
+    "expression": "grel:value.substring(-4)",
+    "onError": "set-to-blank",
+    "newColumnName": "AY from Credit Line",
+    "columnInsertIndex": 8,
+    "description": "Create column AY from Credit Line at index 8 based on column Credit Line using expression grel:value.substring(-4)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AYfromCreditLine",
+          "expression": "value",
+          "columnName": "AYfromCreditLine",
+          "from": 0,
+          "to": 1800,
+          "selectNumeric": true,
+          "selectNonNumeric": false,
+          "selectBlank": false,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Clean_AY",
+          "expression": "value",
+          "columnName": "Clean_AY",
+          "from": 1870,
+          "to": 2030,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "AY from Credit Line",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AY from Credit Line using expression value.toNumber()"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AYfromCreditLine",
+          "expression": "value",
+          "columnName": "AYfromCreditLine",
+          "from": 0,
+          "to": 1800,
+          "selectNumeric": true,
+          "selectNonNumeric": false,
+          "selectBlank": false,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "Clean_AY",
+          "expression": "value",
+          "columnName": "Clean_AY",
+          "from": 1870,
+          "to": 2030,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "AccessionYear",
+    "expression": "grel:if(value <= 2026, value, null)",
+    "onError": "set-to-blank",
+    "newColumnName": "AY_Clean",
+    "columnInsertIndex": 4,
+    "description": "Create column AY_Clean at index 4 based on column AccessionYear using expression grel:if(value <= 2026, value, null)"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AY_Clean",
+          "expression": "value",
+          "columnName": "AY_Clean",
+          "from": 1870,
+          "to": 2030,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        },
+        {
+          "type": "range",
+          "name": "AY from Credit Line",
+          "expression": "value",
+          "columnName": "AY from Credit Line",
+          "from": 0,
+          "to": 9600,
+          "selectNumeric": true,
+          "selectNonNumeric": false,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "AY_Clean",
+    "expression": "grel:cells[\"AY from Credit Line\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AY_Clean using expression grel:cells[\"AY from Credit Line\"].value"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "text",
+          "name": "Object Number",
+          "columnName": "Object Number",
+          "query": "inst",
+          "mode": "text",
+          "caseSensitive": false,
+          "invert": false
+        },
+        {
+          "type": "range",
+          "name": "ON_to_AY1",
+          "expression": "value",
+          "columnName": "ON_to_AY1",
+          "from": 0,
+          "to": 100,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Object Number",
+    "expression": "grel:if(isNumeric(value.split(\".\")[1].toNumber()), value.split(\".\")[1].toNumber(), null)",
+    "onError": "set-to-blank",
+    "newColumnName": "ONtoAY",
+    "columnInsertIndex": 1,
+    "description": "Create column ONtoAY at index 1 based on column Object Number using expression grel:if(isNumeric(value.split(\".\")[1].toNumber()), value.split(\".\")[1].toNumber(), null)"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "ONtoAY",
+          "expression": "value",
+          "columnName": "ONtoAY",
+          "from": 0,
+          "to": 100,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "ONtoAY",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "16"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": ""
+      }
+    ],
+    "description": "Mass edit cells in column ONtoAY"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "ONtoAY",
+          "expression": "value",
+          "columnName": "ONtoAY",
+          "from": 0,
+          "to": 170,
+          "selectNumeric": true,
+          "selectNonNumeric": true,
+          "selectBlank": false,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "ONtoAY",
+    "expression": "grel:value + 1900",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column ONtoAY using expression grel:value + 1900"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [
+        {
+          "type": "range",
+          "name": "AY_Clean",
+          "expression": "value",
+          "columnName": "AY_Clean",
+          "from": 1870,
+          "to": 2030,
+          "selectNumeric": false,
+          "selectNonNumeric": true,
+          "selectBlank": true,
+          "selectError": true
+        }
+      ],
+      "mode": "row-based"
+    },
+    "columnName": "AY_Clean",
+    "expression": "grel:cells[\"ONtoAY\"].value",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column AY_Clean using expression grel:cells[\"ONtoAY\"].value"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "ONtoAY",
+    "description": "Remove column ONtoAY"
+  },
+  {
+    "op": "core/column-rename",
+    "oldColumnName": "AccessionYear",
+    "newColumnName": "Original_AccessionYear",
+    "description": "Rename column AccessionYear to Original_AccessionYear"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "AY from Credit Line",
+    "description": "Remove column AY from Credit Line"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Object Name",
+    "description": "Remove column Object Name"
+  },
+  {
+    "op": "core/column-removal",
+    "columnName": "Credit Line",
+    "description": "Remove column Credit Line"
+  }
+]
