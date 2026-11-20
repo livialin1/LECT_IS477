@@ -40,3 +40,4 @@ We have adjusted our overall timeline to accommodate the additional cleaning and
 Produced record linkage code and described the process in task updates.
 
 ### Tiffany
+Updated the project timeline to reflect current task statuses and target completion dates. Also outlined the remaining deliverables needed to finalize our pipeline.
