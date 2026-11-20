@@ -8,6 +8,15 @@ In progress... trouble with accession year in Met dataset
 After making progress on data cleaning, we began working on the code for record linkage that can be reproduced after final cleaning. For preprocessing, the artist names in all three datasets were standardized, removing any punctuation that was included that could have prevented us from linking the artists. Then, the link datasets and get matched pairs functions were defined to aid the record fusion process. Lastly, the fuse records function was defined and executed to fuse the Art Institute of Chicago and The Metropolitan Museum of Art datasets with the artists dataset, creating two new datasets with information on the artists included in the Art Institute and the artists included in The Met.
 
 ## Timeline
+November 15th: Prototype Record Linkage - Completed
+November 19th: Milestone 3 Status Report - Completed
+November 23rd: Data Acquisition & Cleaning - In Progress
+November 26th: Schema Integration & Final Record Linkage - In Progress
+December 1st: Finish Analysis - Not Started
+December 8th: Complete Project Report - Not Started
+
+While our initial data imports, prototype record linkage code, and our November 19th status report have been completed, we are currently finishing the remaining data cleaning for the Met and artist datasets, which we aim to wrap up by November 23rd. This includes extracting accession dates from record numbers, identifying missing or incorrect data, etc. After all datasets are fully cleaned, we will perform schema integration to align their differing structures and replicate our record linkage workflow on the updated datasets by November 26th. Once the datasets are combined, we will aim to finish the analysis by December 1st, giving us seven days to focus on completing the final project report by December 8th.
+
 
 ## Changes to Project Plan
 While we had no visible feedback on the Canvas rubric to implement for our third milestone, we did make a few changes to our approach based on challenges that we encountered as we cleaned the data and performed record linkage.
