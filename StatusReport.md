@@ -43,6 +43,7 @@ The cleaning was made more difficult by a lower data quality than we were expect
 
 ## Team Member Contributions
 ### Carlee
+Contributed to project planning, evaluated progress, and documented changes to our methodology and overall approach to data cleaning and integration. 
 
 ### Erin
 Imported and cleaned datasets in python and OpenRefine. Helped organize files in GitHub.
