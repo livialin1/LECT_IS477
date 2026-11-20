@@ -4,7 +4,7 @@
 ### Data Cleaning
 We were able to successfully import the data into python, and started cleaning the data in python. However, after some beginning work we decided it would be easier to pull the data into OpenRefine to do the initial cleaning. 
 
-We did this for the Met Dataset, where the input was ([MetObjects.csv from the Met's Github](https://github.com/metmuseum/openaccess/blob/master/MetObjects.csv)), we removed unnecessary columns and cleaned the Accession Year and Object Title, with history recorded here ([met-OpenRefine-history.json](https://github.com/livialin1/LECT_IS477/blob/main/Data/met-OpenRefine-history.json)), and ending up with ([Cleaned-Met-Objects.csv](https://github.com/livialin1/LECT_IS477/blob/main/Data/Cleaned-Met-Objects.csv)) at the end. 
+We did this for the Met Dataset, where the input was ([MetObjects.csv from the Met's GitHub](https://github.com/metmuseum/openaccess/blob/master/MetObjects.csv)), we removed unnecessary columns and cleaned the Accession Year and Object Title, with history recorded here ([met-OpenRefine-history.json](https://github.com/livialin1/LECT_IS477/blob/main/Data/met-OpenRefine-history.json)), and ending up with ([Cleaned-Met-Objects.csv](https://github.com/livialin1/LECT_IS477/blob/main/Data/Cleaned-Met-Objects.csv)) at the end. 
 
 The Chicago Dataset was imported into python as ([AIofChicago.jsonl](https://github.com/livialin1/LECT_IS477/blob/main/Data/AIofChicago.jsonl)), from the Art Institute of Chicago’s [github](https://github.com/art-institute-of-chicago/api-data/blob/main/getting-started/allArtworks.jsonl). The main cleaning needed was to extract the Accession Year from the Main Reference Number. This cleaning was done in ([Data-Cleaning-Record-Linkage.ipynb](https://github.com/livialin1/LECT_IS477/blob/main/Data/Data-Cleaning-Record-Linkage.ipynb)). 
 
@@ -45,6 +45,7 @@ The cleaning was made more difficult by a lower data quality than we were expect
 ### Carlee
 
 ### Erin
+Imported and cleaned datasets in python and OpenRefine. Helped organize files in GitHub.
 
 ### Livia
 Produced record linkage code and described the process in task updates.
