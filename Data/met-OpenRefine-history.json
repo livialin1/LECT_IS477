@@ -617,12 +617,20 @@
   },
   {
     "op": "core/column-removal",
-    "columnName": "Object Name",
-    "description": "Remove column Object Name"
-  },
-  {
-    "op": "core/column-removal",
     "columnName": "Credit Line",
     "description": "Remove column Credit Line"
+  },
+  {
+    "op": "core/column-addition",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "baseColumnName": "Title",
+    "expression": "grel:coalesce(value, cells[\"Object Name\"].value)",
+    "onError": "set-to-blank",
+    "newColumnName": "Clean_Title",
+    "columnInsertIndex": 7,
+    "description": "Create column Clean_Title at index 7 based on column Title using expression grel:coalesce(value, cells[\"Object Name\"].value)"
   }
 ]
