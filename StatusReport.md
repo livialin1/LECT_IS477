@@ -14,7 +14,7 @@ After making progress on data cleaning, we began working on the code for record 
 <li>November 26th: Schema Integration & Final Record Linkage - In Progress</li>
 <li>December 1st: Finish Analysis - Not Started</li>
 <li>December 8th: Complete Project Report - Not Started</li>
-
+<br>
 
 While our initial data imports, prototype record linkage code, and our November 19th status report have been completed, we are currently finishing the remaining data cleaning for the Met and artist datasets, which we aim to wrap up by November 23rd. This includes extracting accession dates from record numbers, identifying missing or incorrect data, etc. After all datasets are fully cleaned, we will perform schema integration to align their differing structures and replicate our record linkage workflow on the updated datasets by November 26th. Once the datasets are combined, we will aim to finish the analysis by December 1st, giving us seven days to focus on completing the final project report by December 8th.
 
