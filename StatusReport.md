@@ -36,6 +36,10 @@ We have adjusted our overall timeline to accommodate the additional cleaning and
 
 
 ## Challenges
+A challenge we encountered was that the data was a lot messier than expected. In the Met’s database there were about 4000 missing values (0.82%)  in the Accession Year column. This is a fairly small proportion, but we expected cleaning to be easy using the Object Number, which we expected to have the Accession Year at the beginning. However,  a lot of the Object Numbers deviated from the expected forms. We were able to pull some additional Accession Years from the Credit Line information, which credited the source who gave the object to the museum. We tried to clean this in python initially, but pivoted to using OpenRefine when we realized it was more complex than we thought. 
+
+The cleaning was made more difficult by a lower data quality than we were expecting in both datasets. We were expecting the data to be very standard since the sources (The Art Institute and The Met) are both very esteemed institutions, but there were many deviations within it. 
+
 
 ## Team Member Contributions
 ### Carlee
